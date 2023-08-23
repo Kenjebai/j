@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Natasha",
+        "age": 25,
+        "image": "../images/woman.jpeg"
+    },
+    {
+        "name": "Asan",
+        "age": 26,
+        "image": "../images/man.jpeg"
+    },
+    {
+        "name": "Viktor",
+        "age": 18,
+        "image": "../images/man2.jpeg"
+    },
+    {
+        "name": "Yson",
+        "age": 38,
+        "image": "../images/man3.jpeg"
+    },
+    {
+        "name": "Aijan",
+        "age": 19,
+        "image": "../images/woman2.jpeg"
+    }
+]
